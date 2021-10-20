@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+.container {
+    background-color: skyblue;
+    width: 100vw;
+    height: 100vh;
+}
+#noBtn {
+    position: absolute;
+    /*top: 50%;
+    left: 0%;
+    transform: translate(0%,-50%);*/
+}
