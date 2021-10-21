@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn')
 
 yesBtn.addEventListener('click',function () {
-    alert('Siempre supe que dirias que si ');
+    alert('Siempre supe que dirias que si culona :) ');
 })
 yesBtn.style.background = 'teal';
 
